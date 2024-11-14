@@ -11,10 +11,12 @@ Temporalis
 Timeline :
 
 Biobased materials
-time = 0.0, sequestration
-time = 0.5, production
-time = 50.0 ,end of life : incineration
+
+ - time = 0.0, sequestration
+ - time = 0.5, production
+ - time = 50.0 ,end of life : incineration
 
 Synthetic material
-time = 1.0, production
-time = 50.0, end of life : incineration
+
+ - time = 1.0, production
+ - time = 50.0, end of life : incineration
